@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19079e2374b946f4599772779d1e1e96, type: 3}
+  m_Name: Humanoid Bowing Pose
+  m_EditorClassIdentifier: 
+  poseType: 2
+  animation: 1
+  animationNames:
+  - Bowing 1
+  - Bowing 2
+  - Bowing 3
+  animationSpeed: 1
+  animationStartFrame: 0
+  headVisibleInFirstPerson: 0
+  torsoVisibleInFirstPerson: 0
+  armsVisibleInFirstPerson: 1
+  legsVisibleInFirstPerson: 1
+  headIKActive: 0
+  leftHandIKActive: 0
+  rightHandIKActive: 0
+  leftFootIKActive: 0
+  rightFootIKActive: 0

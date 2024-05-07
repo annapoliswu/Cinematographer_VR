@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50c20d14f5d93bb43965c4d6cbfea67d, type: 3}
+  m_Name: neutral_mouth2 rescaled_model7-modular_blend_shape_model__head_fixed__new_face-blendShape8.happy_mouth
+  m_EditorClassIdentifier: 
+  min: 0
+  max: 100
+  path: Parts/body_2/alt_Face2/neutral_mouth2
+  blendshape: 13

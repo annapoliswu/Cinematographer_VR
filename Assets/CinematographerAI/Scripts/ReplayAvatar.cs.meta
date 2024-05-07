@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4b85c6ca6de8d3444ba933d720f79660
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kit: {fileID: 11400000, guid: fcc8129f4d09c4d4383cc032b46286d2, type: 2}
+  - headMarker: {instanceID: 0}
+  - leftHandMarker: {instanceID: 0}
+  - rightHandMarker: {instanceID: 0}
+  - avatarObject: {instanceID: 0}
+  - currentPose: {instanceID: 0}
+  - headOverride: {instanceID: 0}
+  - rightOverride: {instanceID: 0}
+  - leftOverride: {instanceID: 0}
+  - rootOverride: {instanceID: 0}
+  executionOrder: -94
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

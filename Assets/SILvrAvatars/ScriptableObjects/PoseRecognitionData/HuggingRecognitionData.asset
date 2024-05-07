@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdb71f1fff19c5d4e9391b5272e6ddc0, type: 3}
+  m_Name: HuggingRecognitionData
+  m_EditorClassIdentifier: 
+  poseType: 3
+  recordPose: {fileID: -2603587558067789333, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+  headRotation: {x: 0, y: 0, z: 0, w: 1}
+  leftHandOffset: {x: -0.08459872, y: -0.15204492, z: -0.20852314}
+  leftHandRotation: {x: -0.10828333, y: 0.55984616, z: 0.062176384, w: 0.8250254}
+  rightHandOffset: {x: 0.06074941, y: -0.16055484, z: 0.30940086}
+  rightHandRotation: {x: -0.080080405, y: 0.5403499, z: -0.0009226003, w: -0.8400671}
+  headRotationSnapshots: []
+  leftHandOffsetSnapshots: []
+  leftHandRotationSnapshots: []
+  rightHandOffsetSnapshots: []
+  rightHandRotationSnapshots: []
+  threshold: 0.25
+  minPlayers: 2
+  maxPlayers: 2
+  minDistance: 0
+  maxDistance: 1.5
+  minAngleDifference: 150
+  maxAngleDifference: 210

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e05a3682971a28343b55883e2110fa70, type: 3}
+  m_Name: Humanoid Kit
+  m_EditorClassIdentifier: 
+  avatarPrefab: {fileID: 2502625302758584229, guid: e6236635eedc7e944a063ed60868f16a, type: 3}
+  poses:
+  - {fileID: 11400000, guid: 7d5b99cc5dd3e204fb9c8d28295b5b09, type: 2}
+  - {fileID: 11400000, guid: fbe4dc77962569c4f912ebc5fbc188e7, type: 2}
+  - {fileID: 11400000, guid: c9c90be8ec333824a84f4d3b3beced1c, type: 2}
+  recognizablePoses:
+  - {fileID: 11400000, guid: 3dfe18fcdf458d3419f9d5c87da0f32c, type: 2}
+  lipsync: 1
+  visemeToBlendTargets: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c000000
+  parameters:
+  - {fileID: 11400000, guid: b0b3a59d8b3a27949962c9ead9f3b216, type: 2}
+  - {fileID: 11400000, guid: 08977c91eb50ff942903ac2662f2e560, type: 2}
+  - {fileID: 11400000, guid: 3736c6f49ec0d9242be8cc3f2d0d97bf, type: 2}
+  - {fileID: 11400000, guid: 9491c9255617c1a46a77d210bd7ec33a, type: 2}
+  - {fileID: 11400000, guid: f67d6e4363e32a24bb9168941a5c3893, type: 2}
+  - {fileID: 11400000, guid: 00d2dbb46a0928948bf0a4fb05e4b7b0, type: 2}
+  - {fileID: 11400000, guid: 28e37ae4c2009984ab6522a32768f9c3, type: 2}
+  - {fileID: 11400000, guid: 5aebbe6d433758248859bfa70e3dd99c, type: 2}
+  - {fileID: 11400000, guid: 59666465c14745a4bb0cfe5071191f18, type: 2}
+  - {fileID: 11400000, guid: aa4be70099eb1bc4fbe90e46f4e9d1cb, type: 2}
+  - {fileID: 11400000, guid: 2aa9bfef010f1e340b1de2c53a8f94d4, type: 2}
+  partParent: Parts
+  skeletonPrefix: Character1
+  mouthPart: mouth
+  headOffset: {x: 0, y: 0.06, z: 0.09}
+  smoothSkin: 1
+  meshes:
+  - {fileID: -8545447256379345787, guid: 5725a8c718f59064d86d79e7a20bcea6, type: 3}
+  - {fileID: 3790109401279536082, guid: 5725a8c718f59064d86d79e7a20bcea6, type: 3}
+  - {fileID: -3180183149586072610, guid: 5725a8c718f59064d86d79e7a20bcea6, type: 3}
+  - {fileID: 4075554710936702133, guid: 5725a8c718f59064d86d79e7a20bcea6, type: 3}
+  - {fileID: -2939445075409241338, guid: 5725a8c718f59064d86d79e7a20bcea6, type: 3}
+  - {fileID: -951010911842587319, guid: 5725a8c718f59064d86d79e7a20bcea6, type: 3}
+  - {fileID: -5151404699693070171, guid: 5725a8c718f59064d86d79e7a20bcea6, type: 3}
+  bodyGroups: 
+  bodyGroupMasks:
+  - {fileID: 2800000, guid: c526e2e887751de43a8eeb709db69642, type: 3}
+  - {fileID: 2800000, guid: e011abedbf485fc4f8e25fe354a418df, type: 3}
+  - {fileID: 2800000, guid: 32f4f86f733bdfc4dab1ed68b1f01a07, type: 3}
+  - {fileID: 2800000, guid: d549b8c42989a0b4c9b39d2257ecf3b0, type: 3}
+  - {fileID: 2800000, guid: d52c8886add06064d89793d272295f60, type: 3}
+  - {fileID: 2800000, guid: 15def93337b57344b9eafb367ffd10ac, type: 3}
+  - {fileID: 2800000, guid: 0916e828b72450447ba54a85569fa5f7, type: 3}
+  mouthParameterIndex: 10
+  mouthParameter: {fileID: 11400000, guid: 2aa9bfef010f1e340b1de2c53a8f94d4, type: 2}
